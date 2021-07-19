@@ -45,7 +45,7 @@ body {
 
 .button:disabled {
   cursor: default;
-  filter: brightness(30%);
+  filter: brightness(40%);
 }
 
 @media screen and (max-width: 1000px) {
